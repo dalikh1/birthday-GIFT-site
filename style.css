@@ -1,0 +1,15 @@
+body {
+    font-family: 'Happy Monkey', cursive;
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    display: block;
+
+}
+.image {
+    width: 20%;
+    border-radius: 50%;
+    position: relative;
+    height: 170px ;
+    overflow: hidden;
+
+}
