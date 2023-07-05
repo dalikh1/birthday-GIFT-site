@@ -2,7 +2,8 @@ body {
     font-family: 'Happy Monkey', cursive;
     font-family: 'Orbitron', sans-serif;
     text-align: center;
-    display: block;
+    background: #a2d2ff;
+    color: #ffffff;
 
 }
 .image {
@@ -11,5 +12,6 @@ body {
     position: relative;
     height: 170px ;
     overflow: hidden;
+    border: 5px solid #EFB0C9;
 
 }
