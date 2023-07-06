@@ -47,8 +47,13 @@ margin: 0;
 
 
 #gimg {
-    margin: 20px;
+    margin: 20px auto;
     width: 400px;
-    border: 5px solid white;
+    border: 6px solid white;
     border-radius: 10px;
+    height:400px ;
+    background-image: url(gift-cover.jpg);
+    background-size: cover;
+    
+
 }
