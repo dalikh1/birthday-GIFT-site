@@ -5,6 +5,9 @@ body {
     background: #a2d2ff;
     color: #ffffff;
     text-shadow: 0px 0px 1px black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
 }
 .image {
@@ -15,4 +18,7 @@ body {
     overflow: hidden;
     border: 5px solid #EFB0C9;
 
+}
+h2, h4 {
+background: #EFB0C9;
 }
