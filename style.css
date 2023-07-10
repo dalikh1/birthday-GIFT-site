@@ -65,3 +65,9 @@ margin: 0;
     background-image: url(hot.webp);
     background-size: inherit;
 }
+#genius-gif:hover {
+    background-image: url(genius.webp);
+}
+#badass-gif:hover {
+    background-image: url(badass.webp);
+}
