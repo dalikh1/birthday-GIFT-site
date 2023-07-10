@@ -2,7 +2,7 @@ body {
     font-family: 'Happy Monkey', cursive;
     font-family: 'Orbitron', sans-serif;
     text-align: center;
-    background: #a2d2ff;
+    background: linear-gradient(#a2d2ff, pink);
     color: #ffffff;
     text-shadow: 0px 0px 1px black;
     
@@ -68,8 +68,9 @@ margin: 0;
 #genius-gif:hover {
     background-image: url(genius.webp);
 }
-#badass-gif:hover {
-    background-image: url(badass.webp);
+#marryme-gif:hover {
+    background-image: url(marryme.webp);
+    background-position-x: center;
 }
 #cheers-gif:hover {
     background-image: url(cheers.webp);
@@ -77,6 +78,18 @@ margin: 0;
 #cheers-gif {
     height: 200px;
 }
+#myre-gif:hover {
+    background-image: url(myre.webp);
+}
+#iloveu-gif:hover {
+    background-image: url(iloveu.webp);
+    background-position-x: center;
+
+}
+
+
+
+
 #footers {
     font-style: italic;
     width: 400px;
