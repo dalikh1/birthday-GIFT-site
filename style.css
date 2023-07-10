@@ -71,3 +71,9 @@ margin: 0;
 #badass-gif:hover {
     background-image: url(badass.webp);
 }
+#cheers-gif:hover {
+    background-image: url(cheers.webp);
+}
+#cheers-gif {
+    height: 200px;
+}
